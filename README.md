@@ -24,10 +24,12 @@
 
 ---
 
-<div id="about" align="center">
-   <h4>ABOUT ME </h4>
-                     
 
+  <h4 align="center"> ABOUT ME
+     <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/circle-info.svg" alt="info" height="20" width="20" />
+  </h4>
+                     
+<div align="center">
 <li>I love coding. </li>
 <li>I enjoy learning new things.</li>
 <li> My hobbies include: drawing, playing the violin and listening to music.</li>
@@ -47,14 +49,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
-  
-   
-  
- 
 </div>
 
 ---
 
-
+<div id="stats" align="center">
+  <h4>MY STATS </h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=MelynAtieno&count_private=true&show_icons=true&theme=dracula" alt="stats" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelynAtieno&layout=compact&theme=dracula" height="195" alt="languages" />
+</div>
 
  
