@@ -55,8 +55,8 @@
 
 <div id="stats" align="center">
   <h4>MY STATS </h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=MelynAtieno&count_private=true&show_icons=true&theme=dracula" alt="stats" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelynAtieno&layout=compact&theme=dracula" height="195" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MelynAtieno&count_private=true&show_icons=true&theme=dracula" alt="stats" height="150px" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelynAtieno&layout=compact&theme=dracula" height="150px" alt="languages" />
 </div>
 
  
