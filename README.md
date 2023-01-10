@@ -21,6 +21,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 <p align="center">My name is Melyn Atieno. I am a passionate full-stack Software Engineer based in Nairobi, Kenya. </p> 
+<a href="https://melyn-atieno.netlify.app/">WEBSITE</a>
 
 ---
 
