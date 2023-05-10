@@ -20,7 +20,7 @@
 <h3 align="center">HELLO!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-<p align="center">My name is Melyn Atieno. I am a passionate full-stack Software Engineer based in Nairobi, Kenya. </p> 
+
 
 
 ---
@@ -31,9 +31,9 @@
   </h4>
                      
 <div align="center">
-<li>I love coding. </li>
+<li>I love programming. </li>
 <li>I enjoy learning new things.</li>
-<li> My hobbies include: drawing, playing the violin and listening to music.</li>
+
 </div>
 
 ---
