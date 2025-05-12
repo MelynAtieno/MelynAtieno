@@ -1,17 +1,3 @@
-<div id="gif" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="400"/>
-</div>
-<br/>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/melyn-atieno/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-  <a href="mailto:melynatieno@gmail.com">
-     <img src="https://img.shields.io/badge/-gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-  </a>
-</div> 
-<br/>
 
 <div id="counter" align="center">
    <img src="https://komarev.com/ghpvc/?username=MelynAtieno&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="views counter"/>
@@ -31,33 +17,30 @@
   </h4>
                      
 <div align="center">
-<li>I love programming. </li>
-<li>I enjoy learning new things.</li>
-
+<p> I am a programmer with an intense passion for solving problems and building impactful software solutions.
+  I will soon be graduating (2025) with a Master's degree in Software Engineering and have gained hands-on experience through academic projects and personal development work.
+</p>
+  <p>
+    I enjoy working with different technologies like Java, Python, and JavaScript. I am continuously learning to improve my skillset and I thrive in environments where I can collaborate with like-minded people and learn something new so that I can grow.
+  </p>
 </div>
 
 ---
 
 <div id="tools" align="center">
   <h4>LANGUAGES & TOOLS </h4>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby"  alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
-</div>
-
+  <ul>
+    <li>HTML & CSS</li>
+    <li>JavaScript, ReactJS</li>
+    <li>Java, SpringBoot</li>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>DevOps</li>
+    <li>Git</li>
+    <li>Agile Software Developent</li>
+  </ul>
+    
 ---
 
-<div id="stats" align="center">
-  <h4>MY STATS </h4>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelynAtieno&layout=compact&theme=dracula" height="150px" alt="languages" />
-</div>
 
  
