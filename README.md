@@ -29,18 +29,27 @@
 
 <div id="tools" align="center">
   <h4>LANGUAGES & TOOLS </h4>
-  <ul>
-    <li>HTML & CSS</li>
-    <li>JavaScript, ReactJS</li>
-    <li>Java, SpringBoot</li>
-    <li>Python</li>
-    <li>SQL</li>
-    <li>DevOps</li>
-    <li>Git</li>
-    <li>Agile Software Developent</li>
-  </ul>
+  <table>
+    <tr>
+      <td align="left">
+        <ul>
+          <li>HTML & CSS</li>
+          <li>JavaScript, ReactJS</li>
+          <li>Java, Spring Boot</li>
+          <li>Python</li>
+        </ul>
+      </td>
+      <td align="left">
+        <ul>
+          <li>SQL</li>
+          <li>DevOps</li>
+          <li>Git</li>
+          <li>Agile Software Development</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>   
----
 
 
  
