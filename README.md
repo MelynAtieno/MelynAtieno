@@ -16,7 +16,7 @@
      <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/circle-info.svg" alt="info" height="20" width="20" />
   </h4>
                      
-<div align="center">
+<div align="left">
 <p> I am a programmer with an intense passion for solving problems and building impactful software solutions.
   I will soon be graduating (2025) with a Master's degree in Software Engineering and have gained hands-on experience through academic projects and personal development work.
 </p>
@@ -39,7 +39,7 @@
     <li>Git</li>
     <li>Agile Software Developent</li>
   </ul>
-    
+</div>   
 ---
 
 
