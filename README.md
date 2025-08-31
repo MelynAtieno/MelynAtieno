@@ -34,9 +34,11 @@
       <td align="left">
         <ul>
           <li>HTML & CSS</li>
-          <li>JavaScript, ReactJS</li>
+          <li>JavaScript, ReactJS, Angular</li>
+          <li> Typescript</li>
           <li>Java, Spring Boot</li>
           <li>Python</li>
+          <li> Express/Node.js </li>
         </ul>
       </td>
       <td align="left">
@@ -45,6 +47,8 @@
           <li>DevOps</li>
           <li>Git</li>
           <li>Agile Software Development</li>
+          <li> Docker</li>
+          <li> Kubernetes</li>
         </ul>
       </td>
     </tr>
