@@ -21,7 +21,7 @@
   I will soon be graduating (2025) with a Master's degree in Software Engineering and have gained hands-on experience through academic projects and personal development work.
 </p>
   <p>
-    I enjoy working with different technologies like Java, Python, and JavaScript. I am continuously learning to improve my skillset and I thrive in environments where I can collaborate with like-minded people and learn something new so that I can grow.
+    I enjoy working with different technologies like Ruby, Python, and JavaScript. I am continuously learning to improve my skillset and I thrive in environments where I can collaborate with like-minded people and learn something new so that I can grow.
   </p>
 </div>
 
