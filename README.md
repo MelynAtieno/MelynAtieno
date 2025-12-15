@@ -36,7 +36,7 @@
           <li>HTML & CSS</li>
           <li>JavaScript, ReactJS, Angular</li>
           <li> Typescript</li>
-          <li>Java, Spring Boot</li>
+          <li>Ruby/ Ruby on Rails</li>
           <li>Python</li>
           <li> Express/Node.js </li>
         </ul>
